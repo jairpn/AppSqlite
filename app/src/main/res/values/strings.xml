@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppSqlite</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="alterar">Alterar</string>
+    <string name="digiteseunome">Digite seu nome</string>
+    <string name="altera">Alterar</string>
+    <string name="salvar">Salvar</string>
+</resources>
